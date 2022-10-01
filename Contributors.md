@@ -14,6 +14,7 @@
 - [Prabah Prasad Kalita](https://github.com/prabah101)
 - [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
+- [Vinayak Agarwal](https://github.com/VinayakAgarwal4444)
 - [Gelio](https://github.com/bigelio)
 - [Vedika](https://github.com/vcvedika)
 - [eskayML](https://github.com/eskayML)
